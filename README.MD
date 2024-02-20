@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Initial Data Set Visualization
 
-https://i.imgur.com/rRY00UH.png
+<img width="500" alt="" src="https://i.imgur.com/rRY00UH.png">
 
 This project predicts S&P500 stock movements using machine learning. It utilizes historical data from Yahoo Finance API, implementing a Random Forest Classifier model to forecast price changes. Features like closing price, volume, etc., are used for prediction.
 
